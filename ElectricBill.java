@@ -1,10 +1,7 @@
-
 public class ElectricBill {
-
     public static void main(String[] args) {
         int units = 12;
         int bill = 0;
-
         if (units > 100) {
             if (units >= 200) {
                 if (units >= 300) {
